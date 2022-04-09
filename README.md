@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur Araujo
 - 👀 I’m interested in learn and discover new things
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript at Trybe
 
 <h3 align="left">Social media:</h3>
 <a href="https://www.linkedin.com/in/arthur-araujo-5ab2231b2/" target="_blanck">
